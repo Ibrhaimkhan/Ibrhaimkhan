@@ -1,0 +1,10 @@
+import turtle
+t = turtle.Pen()
+turtle.bgcolor("black")
+t.speed(100)
+colors = ["red", "orange", "yellow", "green", "blue","brown", "purple", ]
+for x in range(300):
+     t.forward(2*x)
+     t.left(50)
+     t.color( colors [ x % 7 ] )
+
