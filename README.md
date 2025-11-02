@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ibrhaimkhan
+- 👋 Hi, I’m @Ibrahimkhan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on github
+- 🌱 I’m currently learning data science
+- 💞️ I’m not looking to collaborate on github
 - 📫 How to reach me ik1416486@gmail.com
 
 
